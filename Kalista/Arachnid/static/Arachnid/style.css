@@ -1,0 +1,42 @@
+body {
+    background: white url("images/background.png");
+}
+
+.navbar-inverse {
+    background-color: #d9edf7;
+    border-color: #080808;
+}
+
+ul.errorlist {
+    padding-left: 0;
+}
+
+ul.errorlist > li {
+    list-style: none;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
+
+.glyphicon-star {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+.glyphicon-star.active {
+    color: #FDB230;
+}
+
+.navbar-nav {
+font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar-text {
+
+    font-family: 'Fjalla One', sans-serif;
+}
